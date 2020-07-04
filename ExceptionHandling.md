@@ -10,7 +10,7 @@
 
 ---
 
-_Basic Terms_
+_Basic Terms:_
 
 _What is debugging?_
 * Running your code step by step in a tool like Visual Studio, to find the exact point where you made a programming mistake. 
@@ -34,8 +34,8 @@ _Checklist of assumptions to challenge:_
 _Debugging in Visual Studio:_
 
 * Enter debugging mode by using **F5** (or the Debug > Start Debugging menu command or the Start Debugging button 
-* If any exceptions occur, Visual Studio’s Exception Helper takes you to where the exception occurred and provides other helpful information.
-* If you don't get an expection, set a breakpoint by clicking in the left margin next to a line of code. Or place the cursor on a line and press **F9**. 
+* If any exceptions occur, Visual Studioâ€™s Exception Helper takes you to where the exception occurred and provides other helpful information.
+* If you don't get an exception, set a breakpoint by clicking in the left margin next to a line of code. Or place the cursor on a line and press **F9**. 
 * Click the Restart App button in the Debug Toolbar (**Ctrl + Shift + F5**) to recompile code and restart.
 * If it is difficult to identify where the problem occurs, set a breakpoint in code that runs before the problem occurs, and then use step commands such as **F10** and **F11** until you see the problem manifest. 
 
@@ -64,7 +64,7 @@ _Try/Catch/Finally Blocks_:
         }
 ```
 * If you want to include a safety net catch (System.Exception), you must put the more specific handlers first.
-* Without specificng a variable or type all exceptions will be caught: ```catch {...}```
+* Without a specific variable or type all exceptions will be caught: ```catch {...}```
 
 
 
