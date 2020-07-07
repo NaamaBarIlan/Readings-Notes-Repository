@@ -38,7 +38,7 @@ Assertion - the UnitTesting namespace has an Assert class in it. Assertion passe
 * xUnit.net is the latest technology for unit testing C#, F#, VB.NET and other .NET languages. 
 * xUnit.net works with ReSharper, CodeRush, TestDriven.NET and Xamarin. 
 
-### README Highlights:
+#### README Highlights:
 
 The ideal README is as short as it can be without being any shorter.
 
