@@ -3,6 +3,6 @@ Reading notes for Code 401: Advanced Software Development in ASP.NET Core
 
 ##  Table of Contents
 
-| Topic | Link |
+| Topic | Notes |
 |---|---|
-|Exception Handling & Debugging| https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/ExceptionHandling.md |
+|[Exception Handling & Debugging](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/ExceptionHandling.md)|  |
