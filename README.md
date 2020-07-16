@@ -10,3 +10,4 @@ Reading notes for Code 401: Advanced Software Development in ASP.NET Core
 5. [Linked Lists](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/LinkedLists.md)
 6. [Object Oriented Principles](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/OOP.md)
 7. [Collections](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/Collections.md)
+8. [LINQ & Delegates]()
