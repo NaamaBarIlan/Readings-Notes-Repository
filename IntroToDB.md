@@ -2,7 +2,7 @@
 
 ### Reading List:
 
-##### [Data Models (DB Schema)](https://www.tutorialspoint.com/dbms/dbms_data_schemas.htm)
+##### [Data Models (DB Schema)](https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/complex-data-model?view=aspnetcore-2.0)
 ##### [DBMS](https://www.tutorialspoint.com/dbms/dbms_overview.htm)
 
 ---
