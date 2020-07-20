@@ -12,4 +12,4 @@ Reading notes for Code 401: Advanced Software Development in ASP.NET Core
 7. [Collections](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/Collections.md)
 8. [LINQ & Delegates](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/LINQ.md)
 9. [Stacks and Queues](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/Stacks.md)
-10. [Intro to Databases]()
+10. [Intro to Databases](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/IntroToDB.md)
