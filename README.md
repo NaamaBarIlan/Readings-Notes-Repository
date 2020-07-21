@@ -1,4 +1,4 @@
-# Readings-Notes-Repository
+# Readings Notes Repository
 Reading notes for Advanced Software Development in ASP.NET Core 
 
 ##  Table of Contents
