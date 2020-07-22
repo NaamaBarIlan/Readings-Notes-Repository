@@ -14,3 +14,4 @@ Reading notes for Advanced Software Development in ASP.NET Core
 9. [Stacks and Queues](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/Stacks.md)
 10. [Intro to Databases](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/IntroToDB.md)
 11. [EF Core & APIs](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/EFCoreAndAPI.md)
+12. [Dependency Injection & Repository Design Pattern]()
