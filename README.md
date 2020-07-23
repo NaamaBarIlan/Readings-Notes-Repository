@@ -15,3 +15,4 @@ Reading notes for Advanced Software Development in ASP.NET Core
 10. [Intro to Databases](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/IntroToDB.md)
 11. [EF Core & APIs](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/EFCoreAndAPI.md)
 12. [Dependency Injection & Repository Design Pattern](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/Readings/DependencyInjection.md)
+13. [EF Relationships & Advanced APIs](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/Readings/EF-API.md)
