@@ -295,3 +295,34 @@ The Bootstrap 4 tutorials cover the following topics:
     </body>```
 
 * Navigation Options
+  Sample Code:
+
+  ``` <body>
+        
+        <div class="container" style="margin-top:30px">
+            
+            <ul class="nav nav-tabs">
+                <li class="nav-item">
+                    <a href="#" class="nav-link active">Item One</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Item Two</a>
+                    <div class="dropdown-menu">
+                        <a href="#" class="dropdown-item">Dropdown 1</a>
+                        <a href="#" class="dropdown-item">Dropdown 2</a>
+                        <a href="#" class="dropdown-item">Dropdown 3</a>
+                        <div class="dropdown-divider"></div>
+                        <a href="#" class="dropdown-item">Dropdown 4</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link">Item Three</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link disabled">Item Four</a>
+                </li>
+            </ul>
+            
+        </div>
+
+    </body>```
