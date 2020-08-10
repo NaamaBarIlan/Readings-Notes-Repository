@@ -208,6 +208,75 @@ The Bootstrap 4 tutorials cover the following topics:
     </body>```
 
 * Cards
+  Sample Code:
+
+  ```<body>
+        
+        <div class="container" style="margin-top:30px">
+            
+            <div class="card">
+                <img class="card-img-top" alt="Card header image" src="https://placeimg.com/640/480/nature">
+                <div class="card-body">
+                    <h5 class="card-title">Card Title</h5>
+                    <p class="card-text">Lorem ipsum dolor</p>
+                </div>
+                <!-- List group -->
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item">Item One</li>
+                    <li class="list-group-item">Item One</li>
+                    <li class="list-group-item">Item One</li>
+                    <li class="list-group-item">Item One</li>
+                </ul>
+                <div class="card-body">
+                    <a href="#" class="btn btn-primary">Button One</a>
+                    <a href="#" class="btn btn-default">Button Two</a>
+                </div>
+            </div>
+            
+        </div>
+
+    </body>```
+
 * Tables
+    Sample Code:
+    ```<body>
+        
+        <div class="container" style="margin-top:30px">
+            
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Name</th>
+                        <th>Age</th>
+                        <th>Country</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr class="table-danger">
+                        <td>01</td>
+                        <td>Neil Rowe</td>
+                        <td>18</td>
+                        <td>United Kingdom</td>
+                    </tr>
+                    <tr>
+                        <td>02</td>
+                        <td>John Doe</td>
+                        <td>33</td>
+                        <td>Australia</td>
+                    </tr>
+                    <tr>
+                        <td>03</td>
+                        <td>David Smith</td>
+                        <td>25</td>
+                        <td>Canada</td>
+                    </tr>
+                </tbody>
+            </table>
+            
+        </div>
+
+    </body>```
+
 * Alerts
 * Navigation Options
