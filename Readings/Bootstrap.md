@@ -33,7 +33,63 @@ Bootstrap is a framework for building responsive, mobile-first sites. It is a he
 This front end framework uses a responsive grid of flexible, collapsible components. 
 
 The Bootstrap 4 tutorials cover the following topics:
-* Responsive Grid Systems
+* Responsive Grid Systems, example code:
+	
+    ```<body>
+        
+        <div class="container" style="margin-top:30px;">
+            <h5>Basic Columns</h5>
+            <div class="row">
+                <div class="col">column</div>
+                <div class="col">column</div>
+                <div class="col">column</div>
+            </div>
+        </div>
+        
+        <div class="container" style="margin-top:30px;">
+            <h5>Set Sizes</h5>
+            <div class="row">
+                <div class="col-4">column</div>
+                <div class="col-6">column</div>
+                <div class="col-2">column</div>
+            </div>
+        </div>
+        
+        <div class="container" style="margin-top:30px;">
+            <h5>Breakpoints</h5>
+            <div class="row">
+                <div class="col-sm">column</div>
+                <div class="col-sm">column</div>
+            </div>
+        </div>
+        
+        <div class="container" style="margin-top:30px;">
+            <h5>Set Sizes and Breakpoints</h5>
+            <div class="row">
+                <div class="col-sm-4">column</div>
+                <div class="col-sm-6">column</div>
+                <div class="col-sm-2">column</div>
+            </div>
+        </div>
+        
+        <div class="container" style="margin-top:30px;">
+            <h5>No Gutters</h5>
+            <div class="row no-gutters">
+                <div class="col">column</div>
+                <div class="col">column</div>
+            </div>
+        </div>
+        
+        <div class="container" style="margin-top:30px;">
+            <h5>Offsetting Columns</h5>
+            <div class="row">
+                <div class="col-sm-6">column</div>
+                <div class="col-sm-3 offset-sm-3">column</div>
+            </div>
+        </div>
+
+    </body>
+    ```
 * Responsive Navbars
 * Modals
 * Forms 
