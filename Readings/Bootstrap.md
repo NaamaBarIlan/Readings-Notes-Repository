@@ -120,7 +120,35 @@ The Bootstrap 4 tutorials cover the following topics:
     </body>```
 
 * Modals
+  Sample Code:
+
+  ```<body>
+        
+        <button class="btn btn-primary" data-toggle="modal" data-target="#myModal">Launch Modal</button>
+        
+        <div class="modal fade" id="myModal">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title">Hello World</h5>
+                        <button type="button" class="close" data-dismiss="modal">
+                            <span>&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <p>Lorem ipsum dolor</p>
+                    </div>
+                    <div class="modal-footer">
+                        <button class="btn btn-primary" data-dismiss="modal">Cancel</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </body>```
+
 * Forms 
+
 * List Groups 
 * Cards
 * Tables
