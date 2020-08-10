@@ -33,8 +33,8 @@ Bootstrap is a framework for building responsive, mobile-first sites. It is a he
 This front end framework uses a responsive grid of flexible, collapsible components. 
 
 The Bootstrap 4 tutorials cover the following topics:
-* Responsive Grid Systems, example code:
-	
+* Responsive Grid Systems
+	Sample code:
     ```<body>
         
         <div class="container" style="margin-top:30px;">
@@ -88,9 +88,37 @@ The Bootstrap 4 tutorials cover the following topics:
             </div>
         </div>
 
-    </body>
-    ```
+    </body>```
+    
 * Responsive Navbars
+    Sample code:
+    
+    ```<body>
+        
+        <nav class="navbar navbar-light bg-light navbar-expand-lg fixed-top">
+            <a href="#" class="navbar-brand">My Website</a>
+            <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarCollapse">
+                <ul class="navbar-nav ml-auto">
+                    <li class="navbar-item">
+                        <a href="#" class="nav-link">Homepage</a>
+                    </li>
+                    <li class="navbar-item">
+                        <a href="#" class="nav-link">Blog</a>
+                    </li>
+                    <li class="navbar-item">
+                        <a href="#" class="nav-link">About Me</a>
+                    </li>
+                    <li class="navbar-item">
+                        <a href="#" class="nav-link">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </body>```
+
 * Modals
 * Forms 
 * List Groups 
