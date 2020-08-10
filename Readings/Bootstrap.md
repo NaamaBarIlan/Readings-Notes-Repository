@@ -279,4 +279,19 @@ The Bootstrap 4 tutorials cover the following topics:
     </body>```
 
 * Alerts
+  Sample Code:
+ 
+  ```<body>
+        
+        <div class="container" style="margin-top:30px">
+            
+            <div class="alert alert-danger">
+                <h4 class="alert-heading">Warning!</h4>
+                <hr />
+                <p class="mb-0">Something really is not right!</p>
+            </div>
+            
+        </div>
+    </body>```
+
 * Navigation Options
