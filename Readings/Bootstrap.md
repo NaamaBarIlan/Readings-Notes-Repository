@@ -15,11 +15,11 @@ Azure DevOps provides developer services to support teams to plan work, collabor
 
 #### Included Services:
 
-* *Azure Repos* - provides Git repositories or Team Foundation Version Control (TFVC) for source control of code
-* *Azure Pipelines* -  provides build and release services to support continuous integration and delivery of apps
-* *Azure Boards* - delivers a suite of Agile tools to support planning and tracking work, code defects, and issues using Kanban and Scrum methods
-* *Azure Test Plans* - provides several tools to test apps, including manual/exploratory testing and continuous testing
-* *Azure Artifacts* -  allows teams to share Maven, npm, and NuGet packages from public and private sources and integrate package sharing into CI/CD pipelines
+* **Azure Repos** - provides Git repositories or Team Foundation Version Control (TFVC) for source control of code
+* **Azure Pipelines** -  provides build and release services to support continuous integration and delivery of apps
+* **Azure Boards** - delivers a suite of Agile tools to support planning and tracking work, code defects, and issues using Kanban and Scrum methods
+* **Azure Test Plans** - provides several tools to test apps, including manual/exploratory testing and continuous testing
+* **Azure Artifacts** -  allows teams to share Maven, npm, and NuGet packages from public and private sources and integrate package sharing into CI/CD pipelines
 * Customizable team dashboards with configurable widgets to share information, progress, and trends
 * Built-in wikis for sharing information
 * Configurable notifications
