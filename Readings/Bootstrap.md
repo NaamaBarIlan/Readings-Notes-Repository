@@ -182,6 +182,31 @@ The Bootstrap 4 tutorials cover the following topics:
     </body>```
 
 * List Groups 
+  Sample Code:
+
+  ```<body>
+        
+        <div class="container" style="margin-top:30px">
+            
+            <div class="list-group">
+                <a href="#" class="list-group-item list-group-item-action">
+                    Homepage
+                </a>
+                <a href="#" class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
+                    Notifications
+                    <span class="badge badge-primary badge-pill">3</span>
+                </a>
+                <a href="#" class="list-group-item list-group-item-action">
+                    Blog
+                </a>
+                <a href="#" class="list-group-item list-group-item-action">
+                    Contact
+                </a>
+            </div>
+            
+        </div>
+    </body>```
+
 * Cards
 * Tables
 * Alerts
