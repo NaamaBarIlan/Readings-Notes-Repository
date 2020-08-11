@@ -18,3 +18,4 @@ Reading notes for Advanced Software Development in ASP.NET Core
 13. [EF Relationships & Advanced APIs](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/Readings/EF-API.md)
 14. [Trees](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/Readings/Trees.md)
 15. [Bootstrap & MVC](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/Readings/Bootstrap.md)
+16. [Razor Pages](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/Readings/RazorPages.md)
