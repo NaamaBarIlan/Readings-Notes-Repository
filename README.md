@@ -20,3 +20,4 @@ Reading notes for Advanced Software Development in ASP.NET Core
 15. [Bootstrap & MVC](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/Readings/Bootstrap.md)
 16. [Razor Pages](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/Readings/RazorPages.md)
 17. [Layouts](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/Readings/Layouts.md)
+18. [Hash Tables](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/Readings/HashTables.md)
