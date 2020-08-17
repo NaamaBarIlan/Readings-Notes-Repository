@@ -21,3 +21,4 @@ Reading notes for Advanced Software Development in ASP.NET Core
 16. [Razor Pages](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/Readings/RazorPages.md)
 17. [Layouts](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/Readings/Layouts.md)
 18. [Hash Tables](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/Readings/HashTables.md)
+19. [SendGrid: Sending Emails](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/Readings/SendGrid.md)
