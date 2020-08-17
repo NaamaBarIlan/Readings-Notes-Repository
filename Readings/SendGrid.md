@@ -17,7 +17,7 @@ SendGrid is a cloud-based email service that provides reliable transactional ema
 
 * Find your SendGrid API key:
 	* Manage => Settings => API Key => Create API Key => Provide the Name of Key and set access to Mail Send => Save
-	* **Important!** make sure the safely save the displayed API key. You will not have access to it again. 
+	* **Important!** make sure to safely save the displayed API key. You will not have access to it again. 
 
 * Install the SendGrid NuGet Package:
 	* SendGrid's .NET class library is called **SendGrid**. It contains the following namespaces:
