@@ -18,7 +18,7 @@
 
 * **Implementation**: while a Depth-First traversal uses a stack data structure, a Breadth-First traversal uses the queue data structure.
 
-* Using a queue allows us to keep a reference to nodes that we want to come back to, even though we haven’t checked, or visited them yet.
+* Using a queue allows us to keep a reference to nodes that we want to come back to, even though we havenâ€™t checked, or visited them yet.
 
 * **Discovered Nodes**: the term for nodes we add to our queue, whose location we know, but we have yet to actually visit.
 
@@ -56,10 +56,10 @@ ALGORITHM breadthFirst(root)
 | :-----------: | :-----------: |
 | O(n) | O(w) |
 
-* Time Complexity
+#### Time Complexity
 
 Since we visit each node in a breadth-first traversal once, the time it will take to read every node depends on the number of nodes in the tree.
 
-* Space Complexity
+#### Space Complexity
 
 The space complexity of a breadth-first traversal is O(w) where w equals the width of the tree.  In the worst case situation, we could enqueue all the nodes in a tree if they are all children of one another.
