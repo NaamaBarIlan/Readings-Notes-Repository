@@ -24,3 +24,4 @@ Reading notes for Advanced Software Development in ASP.NET Core
 19. [SendGrid: Sending Emails](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/Readings/SendGrid.md)
 20. [View Components](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/Readings/ViewComponents.md)
 21. [OAUTH](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/Readings/OAUTH.md)
+22. [Breadth First Binary Tree Traversal](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/Readings/TreeTraversals.md)
