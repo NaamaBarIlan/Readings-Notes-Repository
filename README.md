@@ -27,4 +27,4 @@ Reading notes for Advanced Software Development in ASP.NET Core
 22. [Breadth First Binary Tree Traversal](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/Readings/TreeTraversals.md)
 23. [Graphs](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/Readings/Graphs.md)
 24. [Ethics](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/Readings/Ethics.md)
-25. [Web Security](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/Readings/WebScurity.md)
+25. [Web Security](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/Readings/WebSecurity.md)
