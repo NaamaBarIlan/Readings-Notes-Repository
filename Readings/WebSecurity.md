@@ -33,16 +33,16 @@
 HTTPS uses two types types of encryption algorithms:
 
 1. **Symmetric Key Algorithms**
-  * Only one key to encrypt and decrypt a message.
-  * Anyone with the key can decrypt the message, it's important that the key is kept private.
-  * The encryption algorithm scrambled the text through a series of steps. It is transformed and spread out multiple times. Each time obfuscating the message further.
-  * To decrypt a message, we just need to apply the same steps, but in reverse order.
-  * The encryption key is mixed in with the message, so even if you know the encryption algorithm, without the key, the message is still nonsense.
-  * The main issue with symmetric keys is that they are hard to share.
+    * Only one key to encrypt and decrypt a message.
+    * Anyone with the key can decrypt the message, it's important that the key is kept private.
+    * The encryption algorithm scrambled the text through a series of steps. It is transformed and spread out multiple times. Each time obfuscating the message further.
+    * To decrypt a message, we just need to apply the same steps, but in reverse order.
+    * The encryption key is mixed in with the message, so even if you know the encryption algorithm, without the key, the message is still nonsense.
+    * The main issue with symmetric keys is that they are hard to share.
 2. **Asymmetric Key Algorithms**
-  * The main difference with symmetric keys, is that there are 2 keys: one key is public, the other one is private. They are paired and work together.
-  * The public key can be shared with anyone. 
-  * Only the private key can open a box locked with the public key pair.
-  * This is great not only for privacy, but also for identification since we know for sure that only the owner of the 2 keys can open the message.
+    * The main difference with symmetric keys, is that there are 2 keys: one key is public, the other one is private. They are paired and work together.
+    * The public key can be shared with anyone. 
+    * Only the private key can open a box locked with the public key pair.
+    * This is great not only for privacy, but also for identification since we know for sure that only the owner of the 2 keys can open the message.
 
 
