@@ -51,8 +51,8 @@ HTTPS uses two types types of encryption algorithms:
 * The browser and server need to agree on how to communicate securely. If the negotiation is not successful, the browser shows an error or warning. If an agreement is reached, the browser displays a green padlock on the address bar.
 * This process, the negotiation between a browser and a server, is called 'the handshake'.
 * The handshake steps:
-   1. **Client Hello** - The browser sends a list of SSL/TLS versions and encryption algorithms ('cipher suite') it work with to the server. It then waits for an answer. 
+   1. **Client Hello** - The browser sends a list of SSL/TLS versions and encryption algorithms ('cipher suite') it works with to the server. It then waits for an answer. 
    2. **Server Hello** - The server chooses the best SSL/TLS version and encryption algorithm among the ones the client sent. The server replies with its certificate, which includes its public key, for verification. 
    3. **Client Key Exchange** - The browser confirms the server's certification. It generates a 'pre-master key' that both can use later when generating a unique key. The browser then encrypts that pre-master key with the server's public key and then send it back to the server.
-   4. **Change Cipher Spec** - The server uses its private key to decrypt the pre-master key.
-   5. **Everything is Secured** - 
+   4. **Change Cipher Spec** - The server uses its private key to decrypt the pre-master key. Note - up until this point, all the communication has been open, not secured. Asymmetric keys (public and private keys) were used to encrypt the pre-master key. Both browser and server generate the same 'shared secret' that they are going to use as a symmetric key. The browser sends a test message, encrypted with the shared secret, and then the server responds to it. 
+   5. **Everything is Secured** - Now all data going back and forth between the browser and server is secured for the rest of the session.
