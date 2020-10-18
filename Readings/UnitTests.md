@@ -16,13 +16,13 @@
 
 **How** - Unit text frameworks will make your life easier. 
 
-Creation - create a Unit Test Project Template and add that project reference to your application. This creates a test class we can easily run in Visual Studio. 
+   * *Creation* - create a Unit Test Project Template and add that project reference to your application. This creates a test class we can easily run in Visual Studio. 
 
-Naming - Test methods should have very descriptive names that indicates our hypothesis as to what inputs should create what outputs. For ex. Adding_4_And_3_Should_Return_7().
+   * *Naming* - Test methods should have very descriptive names that indicates our hypothesis as to what inputs should create what outputs. For ex. Adding_4_And_3_Should_Return_7().
 
-Attribution - The [TestMethod] attribute above the method indicates to MSTest that this a test method. Without it the test will not run. 
+   * *Attribution* - The [TestMethod] attribute above the method indicates to MSTest that this a test method. Without it the test will not run. 
 
-Assertion - the UnitTesting namespace has an Assert class in it. Assertion passes and fails determine whether the test passes or fails.
+   * *Assertion* - the UnitTesting namespace has an Assert class in it. Assertion passes and fails determine whether the test passes or fails.
 
 **Best Practices**
 1. Arrange, Act, Assert - Consider your test as a hypothesis and your test run as an experiment. Arrange everything needed to run the experiment.The “act” is the star of the unit testing show. Finally, we assert the hypothesis itself. 
@@ -31,6 +31,8 @@ Assertion - the UnitTesting namespace has an Assert class in it. Assertion passe
 4. Keep It Short, Sweet, and Visible - all set up logic should be clear and visible, not abstract. 
 5. Recognize Test Setup Pain as a Smell - set up heavy tests indicate the code should be reconsidered. Tests carry a maintenance weight, just like production code.
 6. Add Them to the Build -  If any tests fail, then the build fails. 
+
+---
 
 ### xUnit.net
 
