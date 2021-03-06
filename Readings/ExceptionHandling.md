@@ -2,7 +2,6 @@
 
 ### Reading List:
 
-##### [Debugging for Absolute Beginners](https://docs.microsoft.com/en-us/visualstudio/debugger/debugging-absolute-beginners?view=vs-2019)
 ##### [Try/Catch Blocks](https://docs.microsoft.com/en-us/dotnet/standard/exceptions/how-to-use-the-try-catch-block-to-catch-exceptions)
 ##### [Exception Handling](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/statement-keywords)
 ##### [Best Practices for Exceptions](https://docs.microsoft.com/en-us/dotnet/standard/exceptions/best-practices-for-exceptions)
