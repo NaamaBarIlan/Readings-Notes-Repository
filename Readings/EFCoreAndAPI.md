@@ -1,4 +1,4 @@
-# EF Core & APIs
+# Entity Framework Core & APIs
 
 ### Reading List:
 
@@ -52,6 +52,6 @@
 
 ###  User secrets
 
-* User secrets is a secure way of storing private user information such as API keys, client secrets, and connection strings. Essentially anything that you donít want others to know about when using your code base.
+* User secrets is a secure way of storing private user information such as API keys, client secrets, and connection strings. Essentially anything that you don‚Äôt want others to know about when using your code base.
 
-* The user secrets is not uploaded to any source control. This ensures your keys do in fact stay ìsecretî to your local machine.
+* The user secrets is not uploaded to any source control. This ensures your keys do in fact stay ‚Äúsecret‚Äù to your local machine.
