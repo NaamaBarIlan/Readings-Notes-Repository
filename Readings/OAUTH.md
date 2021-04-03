@@ -38,7 +38,7 @@ Instructions on how to configure your application to use the respective provider
 * [Twitter](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/social/twitter-logins?view=aspnetcore-3.1&viewFallbackFrom=aspnetcore-2.1)
 * [Google](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/social/google-logins?view=aspnetcore-2.1) 
 * [Microsoft](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/social/microsoft-logins?view=aspnetcore-3.1&viewFallbackFrom=aspnetcore-2.1) 
-* [Other provider](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/social/other-logins?view=aspnetcore-2.1) 
+* [Other providers](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/social/other-logins?view=aspnetcore-2.1) 
 
 #### Multiple authentication providers
 

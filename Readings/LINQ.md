@@ -10,7 +10,7 @@
 
 ---
 
-#### LINQ
+### LINQ
 
 * **Language-Integrated Query (LINQ)** is the name for a set of technologies based on the integration of query capabilities directly into the C# language. 
 * Traditionally, queries against data are expressed as simple strings without type checking at compile time or IntelliSense support. Furthermore, you have to learn a different query language for each type of data source: SQL databases, XML documents, various Web services, and so on. 
@@ -20,7 +20,9 @@
 * You can write LINQ queries in C# for SQL Server databases, XML documents, ADO.NET Datasets, and any collection of objects that supports `IEnumerable` or the generic `IEnumerable<T>` interface. 
 * LINQ support is also provided by third parties for many Web services and other database implementations.
 
-#### Introduction to LINQ Queries
+---
+
+### Introduction to LINQ Queries
 
 All LINQ query operations consist of three distinct actions:
 
@@ -29,14 +31,14 @@ All LINQ query operations consist of three distinct actions:
 3. Execute the query.
 
 
-##### The Data Source
+### The Data Source
 
 * A query is executed in a foreach statement, and foreach requires `IEnumerable` or `IEnumerable<T>`. 
 * Types that support `IEnumerable<T>` or a derived interface such as the generic `IQueryable<T>` are called **queryable types**.
 * A queryable type requires no modification or special treatment to serve as a LINQ data source. 
 * If the source data is not already in memory as a queryable type, the LINQ provider must represent it as such. 
 
-##### The Query
+### The Query
 * The query specifies what information to retrieve from the data source or sources.
 * Optionally, a query also specifies how that information should be sorted, grouped, and shaped before it is returned. 
 *  A query is stored in a query variable and initialized with a query expression.
@@ -45,7 +47,7 @@ All LINQ query operations consist of three distinct actions:
    *  The `where` clause - applies the filter.
    *  The `select` clause - specifies the type of the returned elements. 
 
-##### Query Execution
+### Query Execution
 
 * **Deferred Execution** - the query variable itself only stores the query commands. The actual execution of the query is deferred until you iterate over the query variable in a foreach statement. 
 * **Forcing Immediate Execution** - Queries that perform aggregation functions over a range of source elements must first iterate over those elements. 
