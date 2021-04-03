@@ -28,7 +28,7 @@
  * When browsing the web, identification means that the site that you are visiting is indeed the one you think it is.
  * HTTPS, via SSL certificates, ensures you are connected exactly with the receiver you would expect.
 
-**The Keys**
+**HTTPS Keys**
 
 HTTPS uses two types types of encryption algorithms:
 
