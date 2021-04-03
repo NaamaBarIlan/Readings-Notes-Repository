@@ -11,7 +11,7 @@ Reading notes for Advanced Software Development in ASP.NET Core
 6. [Collections](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/Readings/Collections.md)
 7. [LINQ & Delegates](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/Readings/LINQ.md)
 8. [Intro to Databases](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/Readings/IntroToDB.md)
-9. [EF Core & APIs](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/Readings/EFCoreAndAPI.md)
+9. [Entity Framework Core & APIs](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/Readings/EFCoreAndAPI.md)
 10. [Dependency Injection & Repository Design Pattern](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/Readings/DependencyInjection.md)
 11. [ASP.NET Routing: MVC & Core](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/Readings/EF-API.md)
 12. [Bootstrap & MVC](https://github.com/NaamaBarIlan/Readings-Notes-Repository/blob/master/Readings/Bootstrap.md)
