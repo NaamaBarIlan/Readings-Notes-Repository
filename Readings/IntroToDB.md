@@ -4,6 +4,7 @@
 
 ##### [Data Models (DB Schema)](https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/complex-data-model?view=aspnetcore-2.0)
 ##### [DBMS](https://www.tutorialspoint.com/dbms/dbms_overview.htm)
+#### [A Primer on SQL (3rd Edition)](https://openlibra.com/en/book/a-primer-on-sql-3rd-edition)
 
 ---
 
