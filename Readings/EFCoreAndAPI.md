@@ -17,9 +17,13 @@
 * EF Core can serve as an object-relational mapper (O/RM), enabling .NET developers to work with a database using .NET objects, and eliminating the need for most of the data-access code they usually need to write.
 * EF Core supports many database engines, see Database Providers for details.
 
+---
+
 ### Razor Pages
 
-* Razor Pages is a new aspect of ASP.NET Core MVC that makes coding page-focused scenarios easier and more productive.
+* Razor Pages is an aspect of ASP.NET Core MVC that makes coding page-focused scenarios easier and more productive.
+
+---
 
 ### Asynchronous code
 
@@ -31,6 +35,7 @@
 
 * Asynchronous code does introduce a small amount of *overhead* at run time, but for low traffic situations the performance hit is negligible, while for high traffic situations, the potential performance improvement is substantial.
 
+---
 
 ### Data Seeding
 
@@ -49,6 +54,7 @@
 
 * The seeding code should not be part of the normal app execution as this can cause concurrency issues when multiple instances are running and would also require the app having permission to modify the database schema.
 
+---
 
 ###  User secrets
 
